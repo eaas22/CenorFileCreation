@@ -1,0 +1,8 @@
+setuptools~=65.3.0
+wheel~=0.37.1
+pandas~=1.4.4
+openpyxl~=3.0.10
+numpy~=1.23.3
+Gooey~=1.0.8.1
+#deployment
+pyinstaller
